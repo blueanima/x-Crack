@@ -1,4 +1,4 @@
-# xrayCrack
+# Crack
 ```
 go build main.go
 main -g xxxx
